@@ -1,0 +1,27 @@
+---
+title: "R_Club"
+author: "Chunmei Li"
+date: "2017年4月18日"
+output: html_document
+---
+
+---
+title: "R_Club"
+author: "Chunmei Li"
+date: "041717"
+output: html_document
+---
+###Markdown practice  
+**To Do List of Chunmei**  
+* Genotype F2 generation  
+   + grow plants (_myc2_, _Col_, _myc234_)  
+   + extract DNA  
+   + PCR  
+* Select transformed plants  
+   + sprinkle seeds in plates with 20mg/L Hgromycin  
+   + transfer green plants with long roots into soil  
+   + genotype  
+```
+x<- c(1,2,3)
+```
+####how about with some modification
