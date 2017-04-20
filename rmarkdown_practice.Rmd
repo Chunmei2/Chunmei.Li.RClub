@@ -25,3 +25,9 @@ output: html_document
 x<- c(1,2,3)
 ```
 ####how about with some modification
+
+# Modification I made  
+You are beautiful  
+![you are beautiful as the flower](http://www.flowermeaning.com/flower-pics/Daisy-Color-Meaning.jpg)
+
+
